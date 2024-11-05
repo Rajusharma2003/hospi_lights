@@ -64,8 +64,8 @@ a {
 }
 
 a {
-  color: #002570;
-  text-decoration: none;
+  color: #ffffff;
+  text-decoration: underline;
 }
 
 a:focus,
@@ -78,7 +78,7 @@ a:focus,
 a:hover {
   text-decoration: none;
   text-decoration: none;
-  color: #002570;
+  color: #bbb4b4;
 }
 
 .uppercase {
