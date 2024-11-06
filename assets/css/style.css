@@ -4500,10 +4500,11 @@ span.dwnlod-hvr i {
 
 .project-icon a {
   font-size: 18px;
-  width: 40px;
+  /* width: 40px; */
   height: 40px;
-  line-height: 37px;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   border-radius: 20px;
   background-color: #002570;
   border: 2px solid #ffffff;
@@ -4546,8 +4547,10 @@ span.dwnlod-hvr i {
 /* Owl Active */
 
 .active.center .single-project-box .project-icon a {
-  right: 20px;
+  right: 7px;
   opacity: 1;
+  top: 13px;
+  padding: 10px;
 }
 
 .active.center .single-project-box .project-content {
