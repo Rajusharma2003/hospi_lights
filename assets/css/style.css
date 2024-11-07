@@ -379,6 +379,7 @@ ul.sub-menu li:hover a span {
   margin: 0;
   font-weight: 800;
   position: relative;
+  left: -57px;
   z-index: -1;
 }
 
@@ -3182,7 +3183,7 @@ p.posts-reply {
 <!-- ============================================================== -->*/
 
 .footer-section {
-  padding: 120px 0 100px;
+  /* padding: 120px 0 100px; */
   background: var(--primary-color);
   position: relative;
   z-index: 1;
@@ -5208,7 +5209,7 @@ span.flaticon-multiply i {
 }
 
 /* Spin Animation */
-
+/* 
 @keyframes "spin" {
   0% {
     -webkit-transform: rotate(360deg);
@@ -5264,7 +5265,7 @@ span.flaticon-multiply i {
     -o-transform: rotate(0deg);
     transform: rotate(0deg);
   }
-}
+} */
 
 /*============================
 /* mediic Start Scroll Up Css 
