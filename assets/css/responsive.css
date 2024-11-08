@@ -2003,6 +2003,11 @@
 
   .hero-content h1 {
     font-size: 27px;
+    left: -18px;
+    z-index: 1;
+    position: relative;
+    
+    
   }
 
   .hero-content h1 span img {
@@ -2069,6 +2074,7 @@
   .counter-serction {
     background-size: cover;
     margin-top: 0;
+    z-index: 1;
   }
 
   .counter-items {

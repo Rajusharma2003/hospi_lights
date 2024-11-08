@@ -381,6 +381,7 @@ ul.sub-menu li:hover a span {
   position: relative;
   left: -57px;
   z-index: -1;
+  width: 100vw;
 }
 
 h1.mediic-style {
