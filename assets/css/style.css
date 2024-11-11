@@ -2929,7 +2929,7 @@ span.fill {
 }
 
 .blogs-category ul li {
-  font-size: 16px;
+  font-size: 20px;
   font-family: "DM Sans";
   color: var(--primary-color);
   display: inline-block;
@@ -4651,7 +4651,9 @@ mediic Start Contact Inner Page
 /* Map Section */
 
 .google-map {
-  padding: 90px 0 120px;
+  /* padding: 90px 0 120px; */
+  /* width: 100vh; */
+  /* height: 100vh; */
 }
 
 /* Error Section */
