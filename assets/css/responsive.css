@@ -1426,9 +1426,9 @@
     width: 100%;
   }
 
-  iframe {
+  /* iframe {
     width: 600px;
-  }
+  } */
 
   /* Testimonial inner Page */
 
@@ -2704,9 +2704,9 @@
     padding: 0 5px 0 0;
   }
 
-  iframe {
+  /* iframe {
     width: 320px;
-  }
+  } */
 
   .accordion2 li a {
     font-size: 16px;
