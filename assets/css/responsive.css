@@ -2799,3 +2799,13 @@
 
   /*  */
 }
+
+/* this is for the responsive css */
+.map{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition-property: transform;
+transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+transition-duration: 150ms;
+}
