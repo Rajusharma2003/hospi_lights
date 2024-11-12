@@ -231,7 +231,9 @@
   /* Hero Section */
 
   .hero-content h1 {
-    font-size: 100px;
+    font-size: 85px;
+        position: relative;
+        left: -44px;
   }
   .hero-shape {
     top: -122px;
@@ -662,7 +664,10 @@
   /* Hero Section */
 
   .hero-content h1 {
-    font-size: 80px;
+    font-size: 58px;
+    position: relative;
+    left: -24px;
+    z-index: 1;
   }
 
   .mediic-hero-content p {
