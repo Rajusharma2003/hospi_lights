@@ -5503,9 +5503,9 @@ span.flaticon-multiply i {
 /* Position the WhatsApp icon at the bottom right */
 .whatsapp-icon {
   position: fixed;
-  bottom: 109px;
-  right: 33px;
-  width: 60px;
+  bottom: 28px;
+  left: 10px;
+  width: 60px;  
   height: 60px;
   background-color: #25D366;
   border-radius: 50%;
