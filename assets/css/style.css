@@ -5498,3 +5498,29 @@ span.flaticon-multiply i {
     -webkit-animation-name: slideInDown;
     animation-name: slideInDown
 }
+
+
+/* Position the WhatsApp icon at the bottom right */
+.whatsapp-icon {
+  position: fixed;
+  bottom: 109px;
+  right: 33px;
+  width: 60px;
+  height: 60px;
+  background-color: #25D366;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.whatsapp-icon img {
+  width: 30px;
+  height: 30px;
+}
+
+.whatsapp-icon:hover {
+  transform: scale(1.1);
+}
