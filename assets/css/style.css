@@ -369,7 +369,7 @@ ul.sub-menu li:hover a span {
 }
 
 .hero-content {
-  padding: 145px 0 0;
+  /* padding: 145px 0 0; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -1362,15 +1362,16 @@ span.list-pd {
   mask-size: 2300% 100%;
   animation: mask_animation_2 0.7s steps(22) forwards;
   z-index: -1;
+  
 }
 
-.mediic-btn a i {
+/* .mediic-btn a i {
   padding-left: 7px;
   position: relative;
   top: 3px;
   transform: rotate(-45deg);
   display: inline-block;
-}
+} */
 
 .mediic-btn a:hover:after {
   animation: mask_animation 0.7s steps(22) forwards;
