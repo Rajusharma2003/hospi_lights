@@ -3190,7 +3190,7 @@ p.posts-reply {
 <!-- ============================================================== -->*/
 
 .footer-section {
-  padding: 46px 0 100px; 
+  padding-top: 40px;
   background: var(--primary-color);
   position: relative;
   z-index: 1;
