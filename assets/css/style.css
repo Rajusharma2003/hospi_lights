@@ -355,7 +355,8 @@ ul.sub-menu li:hover a span {
 <!-- ============================================================== -->*/
 
 .hero-section {
-  background: url(../images/slider/hero-bg.png);
+  background-color: #1c1c1c;
+  /* background: url(../images/slider/hero-bg.png); */
   background-position: center;
   background-repeat: no-repeat;
   height: 790px;
@@ -379,7 +380,7 @@ ul.sub-menu li:hover a span {
 .hero-content h1 {
   font-size: 96px;
   text-transform: uppercase;
-  color: #fff;
+  color: #0093db;
   margin: 0;
   font-weight: 800;
   position: relative;
@@ -575,7 +576,7 @@ a.mediic-btn:hover {
   position: absolute;
   left: 0;
   right: 0;
-  top: -76px;
+  top: -200px;
   z-index: -1;
 }
 
